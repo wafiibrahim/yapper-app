@@ -3,9 +3,14 @@
 
 
 
-![IMG_8923](https://github.com/wafiibrahim/yapper-app/assets/62071785/b8af658a-f0b7-4338-b4cd-267a40a3bcab)
-![IMG_8922](https://github.com/wafiibrahim/yapper-app/assets/62071785/a3096bbe-d515-4592-ab1a-4b2e117fa32f)
-![IMG_8921](https://github.com/wafiibrahim/yapper-app/assets/62071785/089c2bf0-61d5-4589-8a3f-28793aa53a48)
+<div style="display: flex; flex-direction: column; align-items: center;">
+
+  <img src="https://github.com/wafiibrahim/yapper-app/assets/62071785/b8af658a-f0b7-4338-b4cd-267a40a3bcab" alt="IMG_8923" style="margin-bottom: 20px; max-width: 100%; height: auto;">
+  <img src="https://github.com/wafiibrahim/yapper-app/assets/62071785/a3096bbe-d515-4592-ab1a-4b2e117fa32f" alt="IMG_8922" style="margin-bottom: 20px; max-width: 100%; height: auto;">
+  <img src="https://github.com/wafiibrahim/yapper-app/assets/62071785/089c2bf0-61d5-4589-8a3f-28793aa53a48" alt="IMG_8921" style="max-width: 100%; height: auto;">
+
+</div>
+
 
 
 
